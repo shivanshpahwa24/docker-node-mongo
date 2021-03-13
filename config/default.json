@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://shivansh123:shivansh123@cluster0.9cbnw.mongodb.net/docker-node-mongo?retryWrites=true&w=majority"
+}
